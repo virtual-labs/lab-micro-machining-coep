@@ -1,13 +1,14 @@
 {
   "broadArea": {
     "name": "Mechanical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering",
+    "code: "MECH"
   },
   "lab": "Virtual Micro Machining Laboratory",
   "lab_display_name": "Micromachining lab",
   "deployLab": true,
   "phase": 2,
-  "collegeName": "coep",
+  "collegeName": "COEP",
   "baseUrl": "mm-coep.vlabs.ac.in",
   "introduction": "Micromachining refers to techniques for fabrication of 3D structures on the micrometer scale. Until recently watch parts were considered to be the micro components produced for the purpose of making watches. Recent demands for micro parts have required us to manufacture variety of micro components used in different fields from entertainment electronics to biomedical implants. The convenience and value of many products can be substantially increased with reduced size and weight. With the trend toward miniaturization, micromachining becomes increasingly important in fabricating micro parts1 . In the medical field, diagnosis and surgery without pain is possible through miniaturization of medical tools. The convenience and value of many products can be substantially increased with reduced size and weight. With the trend towards miniaturization, micromachining becomes increasingly important in fabricating micro parts. Micro parts may have overall size of few millimeters but it has many features that falls in micro range from 1 µm to 500 µm. features size of 100 µm is common in micromachining. This means small as hair size, the average hair diameter is about 100 µm1-5 . The design and construction of tools, tool holders, cutting tools, and electrodes need to evolve as greater demands are placed on them for machining these miniature parts. A study of micromachining process proves that micro cutting processes are not just a miniaturization of the conventional cutting technology, and requires an adjustment of the entire machining setup and processes. Miniaturization technologies are perceived as potentially key technologies of the future that will bring about completely different ways people and machines interact with the physical world. In the industrial world the interest in microscopic scale manufacturing is exponentially increasing in relation to the rapid growth of Micro Electro Mechanical Systems (MEMS) research. Thus a greater attention is given to improve traditional techniques and developing nonconventional methods, in order to obtain more precision.",
   "experiments": [
@@ -87,8 +88,5 @@
       "Institute having Instrumentation and control department",
       "Institute having Mechanical Engineering department"
     ]
-  },
-  "exp_name": "Study the effect of process parameters in electrochemical grinding",
-  "exp_short_name": "electrochemical-grinding",
-  "version": "v0.1.0"
+  }
 }
