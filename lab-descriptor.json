@@ -16,42 +16,42 @@
       "name": "To study pulsed-heating of materials",
       "short-name": "pulsed-heating",
       "repo": "https://github.com/virtual-labs/exp-pulsed-heating-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
       "name": "To study erosion mechanism from Lazarenko's model",
       "short-name": "lazarenko-model",
       "repo": "https://github.com/virtual-labs/exp-lazarenko-model-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
       "name": "To study various thermal models for EDM",
       "short-name": "thermal-models-edm",
       "repo": "https://github.com/virtual-labs/exp-thermal-models-edm-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
       "name": "To study the influence of process parameters on the Wire EDM",
       "short-name": "wire-edm",
       "repo": "https://github.com/virtual-labs/exp-wire-edm-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
       "name": "Laser hardening using NdYAG laser system",
       "short-name": "hardening-ndyag-laser",
       "repo": "https://github.com/virtual-labs/exp-hardening-ndyag-laser-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
       "name": "Laser spot welding using NdYAG laser system",
       "short-name": "welding-ndyag-laser",
       "repo": "https://github.com/virtual-labs/exp-welding-ndyag-laser-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
